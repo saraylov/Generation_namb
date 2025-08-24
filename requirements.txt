@@ -1,0 +1,5 @@
+kivy>=2.1.0
+faker>=18.0.0
+buildozer>=1.4.0
+python-for-android>=2023.0.0
+cython>=0.29.0
